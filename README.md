@@ -9,7 +9,7 @@
 
 ---
 ### Fintech case study report
-   To be able to develop an application based on blockchain and implement as much as AI/ML as i can.
+ - To be able to develop an application based on blockchain and implement as much as AI/ML as i can.
 ---
 ### Contents
    - Introduction
