@@ -11,7 +11,7 @@
    To be able to develop an application based on blockchain and implement as much as AI/ML as i can.
 ---
 ### Contents
-    - Introduction
-    - Resources
-    - Contact us
+    -Introduction
+    -Resources
+    -Contact us
     
