@@ -3,10 +3,10 @@
 ---
 ## What we want to achieve
 ```
-# Description 
-   The aim of this company is to make life easier for client who wants to rent a house. Right from inspection to consents and verification all done through online. 
-# Contributors
-   All the group of Fintect PT-03-2023
+   # Description 
+      The aim of this company is to make life easier for client who wants to rent a house. Right from inspection to consents and verification all done through online. 
+   # Contributors
+      All the group of Fintect PT-03-2023
 ```
 ---
 ### Fintech case study report
